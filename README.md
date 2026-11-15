@@ -17,7 +17,7 @@ businesses).
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/propscout && cd propscout
+git clone https://github.com/ybshah02/propscout && cd propscout
 uv venv && uv pip install -e .          # or: python -m venv .venv && pip install -e .
 cp .env.example .env                    # add OPENROUTER_API_KEY for AI analysis (optional)
 ```
